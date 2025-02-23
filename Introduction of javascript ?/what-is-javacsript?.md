@@ -20,7 +20,6 @@ data validation, and more on web pages.
 Through this language, you can make different parts of a web page interactive and dynamic, 
 and it is an essential language for web application development.
 
-
 JavaScript একটি হাই-লেভেল, ইন্টারপ্রেটেড প্রোগ্রামিং ভাষা, যা প্রধানত ওয়েব ডেভেলপমেন্ট-এর জন্য ব্যবহৃত হয়।
 এটি ক্লায়েন্ট-সাইড স্ক্রিপ্টিং ভাষা হিসেবে ব্যবহৃত হয়, অর্থাৎ, ওয়েব পেজের মধ্যে রান হয় এবং পেজকে ইন্টারঅ্যাকটিভ এবং 
 ডাইনামিক করে তোলে।

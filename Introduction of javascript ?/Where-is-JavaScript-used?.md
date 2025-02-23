@@ -9,7 +9,6 @@ JavaScript is primarily used in web development. It is a scripting language that
 
 In addition, JavaScript's usage has expanded to various other technologies, including web applications, mobile applications, game development, and more.
 
-
 জাভাসক্রিপ্ট (JavaScript) মূলত ওয়েব ডেভেলপমেন্টে ব্যবহৃত হয়। এটি একটি স্ক্রিপ্টিং ভাষা যা ওয়েব পেজের ইন্টারঅ্যাকটিভিটি তৈরি করতে সহায়তা করে। 
 সাধারণত জাভাসক্রিপ্ট ব্যবহার করা হয়:
 
